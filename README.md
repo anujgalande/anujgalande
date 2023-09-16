@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @anujgalande
-- 👀 I’m interested in Data Science and Data Analysis
+- 👀 I’m interested in Cloud Coputing and DevOps
 - 🌱 I’m currently pursuing my Bachelor's in Engineering (Information Technology) from Savitribai Phule Pune University
 - 💞️ I’m looking to collaborate on projects related to Data Science and Big Data
 - 📫 How to reach me - anujgalande10@gmail.com
